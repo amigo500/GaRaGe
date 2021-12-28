@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaRaGe", "GaRaGe\GaRaGe.csproj", "{FA377AE5-DE16-4820-BB76-4AC89D69BE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA377AE5-DE16-4820-BB76-4AC89D69BE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA377AE5-DE16-4820-BB76-4AC89D69BE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA377AE5-DE16-4820-BB76-4AC89D69BE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA377AE5-DE16-4820-BB76-4AC89D69BE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF98010B-8E27-42F2-9EB6-311EBF4EC71F}
+	EndGlobalSection
+EndGlobal
